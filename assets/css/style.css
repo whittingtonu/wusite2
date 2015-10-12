@@ -636,7 +636,7 @@ figcaption {
   top:0;
   position:absolute;
     background: #333;
-    color: #f16786;
+    color: #0000ff
     width:40px;
   height:32px;
     position: absolute;
@@ -670,7 +670,7 @@ figcaption {
     transition: all 0.3s ease-in-out;
 }
 
-.shareTooltip a { color: #f16786; }
+.shareTooltip a { color: #0000ff; }
 
 .shareTooltip:hover { background:#3D566E; }
 .shareTooltip:hover span { border-top-color: #3D566E; }
