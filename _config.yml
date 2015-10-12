@@ -1,26 +1,26 @@
-title:            Notepad
-description:      "Blogging is fun"
+title:            Whittington U
+description:      "Real World Training for Real Life Situations"
 logo:             logo.png
-disqus_shortname: hmfaysal
+disqus_shortname: Whittington U
 share:            true
 dropcap:			true
 # Change url to your domain. Leave localhost server or blank when working locally.
 # or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same 
 # whether working locally or remotely. Start Jekyll with: jekyll serve --baseurl ''
-url:        	  /Notepad
+url:        	  /wusite2
 
 # Owner/author information
 owner:
-  name:           Hossain Mohd Faysal
+  name:           Whittington U
   avatar:         hmfaysal.jpg
-  email:          hmfaysal@alum.mit.edu
+  email:          info@whittingtonu.org
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:    Awesome Dude, Awesome Life
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        hmfaysal
-  facebook:       hmfaysal
-  github:         hmfaysal      
-  instagram:      hmfaysal
+  twitter:        whittingtonu
+  facebook:       whittingtonu
+  github:         whittingtonu      
+  instagram:      whittingtonu
   # For Google Authorship https://plus.google.com/authorship
   google_plus:    https://plus.google.com/u/0/102602916593522619858
 
