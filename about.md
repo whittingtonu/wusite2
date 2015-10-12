@@ -73,7 +73,7 @@ Whittington U offers some of the best firearm instruction in the world!
 The Whittington U Defensive Academy focuses on the real world implementation on the defensive use of the Pistol and Carbine Platforms. The Defensive Academy's goals are to instill a strong fundamental base of interaction with the firearm platform, to help further the knowledge of the responsible gun owner.
 
 <figure class="third">
-	<a href="{{ site.url }}/images/about/pp.jpg"><img src="{{ site.url }}/images/about/pp-1.jpg"></a>
+	<a href="{{ site.url }}/images/about/pp.jpg"><img src="{{ site.url }}/images/about/pp-1.png"></a>
 	<a href="{{ site.url }}/images/about/pc.jpg"><img src="{{ site.url }}/images/about/pc-1.jpg"></a>
 	<a href="{{ site.url }}/images/about/ps.jpg"><img src="{{ site.url }}/images/about/ps-1.jpg"></a>
 </figure>
@@ -92,8 +92,8 @@ The Whittington U Precision Academy offers courses specifically oriented towards
 The Whittington U Precision Academy courses take place in the beautiful NRA Whittington Center's Backcountry Training Area that is equipped with a Known Distance, High Angle and Unknown Distance Range to maximize each course to its fullest potential.
 
 <figure class="third">
-	<a href="{{ site.url }}/images/about/1000.jpg."><img src="{{ site.url }}/images/about/1000-1.jpg."></a>
-	<a href="{{ site.url }}/images/about/elr.jpg."><img src="{{ site.url }}/images/about/elr-1.jpg."></a>
+	<a href="{{ site.url }}/images/about/1000.jpg"><img src="{{ site.url }}/images/about/1000-1.jpg"></a>
+	<a href="{{ site.url }}/images/about/elr.jpg"><img src="{{ site.url }}/images/about/elr-1.jpg"></a>
 </figure>
 
 Both the School of 1000 Yards and School of ELR offer various Masters Courses that are designed to challenge each graduate by putting them in an environment that forces them to employ the skills taught in previous courses. Our Precision Academy Masters Courses are extremely progressive and the Level I-III Courses are a requirement to participate.
