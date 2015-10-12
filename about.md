@@ -38,13 +38,9 @@ The Whittington U also focuses on the real world implementation of the firearm p
 
 This is our information hub about the training points, equipment and readiness thoughts that we see at the Whittington U.  This site currently has {{ site.posts | size }} posts in {{ site.categories | size }} categories which combinedly have {{ total_words }} words, which will take an average reader ({{ site.wpm }} WPM) approximately <span class="time">{{ total_readtime }}</span> minutes to read. {% if featuredcount != 0 %}There are <a href="{{ site.url }}/featured">{{ featuredcount }} featured posts</a>, you should definitely check those out.{% endif %} The most recent post is {% for post in site.posts limit:1 %}{% if post.description %}<a href="{{ site.url }}{{ post.url }}" title="{{ post.description }}">"{{ post.title }}"</a>{% else %}<a href="{{ site.url }}{{ post.url }}" title="{{ post.description }}" title="Read more about {{ post.title }}">"{{ post.title }}"</a>{% endif %}{% endfor %} which was published on {% for post in site.posts limit:1 %}{% assign modifiedtime = post.modified | date: "%Y%m%d" %}{% assign posttime = post.date | date: "%Y%m%d" %}<time datetime="{{ post.date | date_to_xmlschema }}" class="post-time">{{ post.date | date: "%d %b %Y" }}</time>{% if post.modified %}{% if modifiedtime != posttime %} and last modified on <time datetime="{{ post.modified | date: "%Y-%m-%d" }}" itemprop="dateModified">{{ post.modified | date: "%d %b %Y" }}</time>{% endif %}{% endif %}{% endfor %}. The last commit was on {{ site.time | date: "%A, %d %b %Y" }} at {{ site.time | date: "%I:%M %p" }} [UTC](http://en.wikipedia.org/wiki/Coordinated_Universal_Time "Temps Universel Coordonné").
 
-<figure>
-  <img src="{{ site.url }}/images/whittingtonu.jpg" alt="Whittington U">
-  <figcaption>Whittington U - Training Division of the NRA Whittington Center</figcaption>
-</figure>
 
 <figure>
-	<img src="{{ site.url }}/images/WUpcitable.jpg" alt="WU Practical Carbine">
+	<img src="{{ site.url }}/images/about/WUpcitable.jpg" alt="WU Practical Carbine">
 	<figcaption>Day 1: Practical Carbine I</figcaption>
 </figure>
 
@@ -68,7 +64,7 @@ Whittington U offers some of the best firearm instruction in the world!
 
 
 <figure>
-	<img src="{{ site.url }}/images/Defensive-Academy3.jpg" alt="WU Defensive Academy">
+	<img src="{{ site.url }}/images/about/Defensive-Academy3.jpg" alt="WU Defensive Academy">
 	<figcaption>Click above for info on the WU Defensive Academy</figcaption>
 </figure>
 
@@ -85,7 +81,7 @@ The Whittington U Defensive Academy focuses on the real world implementation on 
 The Defensive Academy offers a progressive course lineup that begins with the Fundamentals of Defensive Marksmanship and leads up to a series of Masters Courses that will be the conditioning response for the respective platforms. Training is key to success in every endeavor and the Whittington U Defensive Academy give students the opportunity to test themselves, both mentally and physically in a controlled environment. 
 
 <figure>
-	<img src="{{ site.url }}/images/Precision-Academy3.jpg" alt="WU Precision Academy">
+	<img src="{{ site.url }}/images/about/Precision-Academy3.jpg" alt="WU Precision Academy">
 	<figcaption>Click above for info on the WU Precision Academy</figcaption>
 </figure>
 
@@ -96,8 +92,8 @@ The Whittington U Precision Academy offers courses specifically oriented towards
 The Whittington U Precision Academy courses take place in the beautiful NRA Whittington Center's Backcountry Training Area that is equipped with a Known Distance, High Angle and Unknown Distance Range to maximize each course to its fullest potential.
 
 <figure class="third">
-	<a href="{{ site.url }}/images/about/1000.jpg."><img src="{{ site.url }}/images/about/plrI-1.jpg."></a>
-	<a href="{{ site.url }}/images/about/elr.jpg."><img src="{{ site.url }}/images/about/elrI-1.jpg."></a>
+	<a href="{{ site.url }}/images/about/1000.jpg."><img src="{{ site.url }}/images/about/1000-1.jpg."></a>
+	<a href="{{ site.url }}/images/about/elr.jpg."><img src="{{ site.url }}/images/about/elr-1.jpg."></a>
 </figure>
 
 Both the School of 1000 Yards and School of ELR offer various Masters Courses that are designed to challenge each graduate by putting them in an environment that forces them to employ the skills taught in previous courses. Our Precision Academy Masters Courses are extremely progressive and the Level I-III Courses are a requirement to participate.
