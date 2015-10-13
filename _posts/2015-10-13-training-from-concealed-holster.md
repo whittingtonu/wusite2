@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Training from the Concealed Holster"
-description: "necessary"
-category: theme
+description: "Training for Everyday is a fundamental concept..."
+category: training
 tags: [whittingotn u, defensive, concealed carry, pistol, jim rutske]
 imagefeature: cover9.jpg
 share: true
