@@ -15,7 +15,7 @@ owner:
   avatar:         hmfaysal.jpg
   email:          info@whittingtonu.org
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    Awesome Dude, Awesome Life
+  description:    Real World Training for Real Life Situations
   # Social networking links used in footer. Update and remove as you like.
   twitter:        whittingtonu
   facebook:       whittingtonu
@@ -37,12 +37,15 @@ links:
     url: /
     external: false
     icon: home
-  - title: Featured Posts
-    url: /featured
-  - title: Categories
-    url: /categories
   - title: About
     url: /about
+  - title: Featured  
+    url: /featured
+  - title: Instructors
+    url: /instructors
+  - title: Register
+  	url:  http://nrawc.goemerchant-stores.com/Whittington-U_c_19.html
+
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Asia/Dhaka
