@@ -8,8 +8,6 @@ description: "Meet the coordinators of the Whittington U"
 
 ---
 
-
-
 # Jon Weiler - PMI Chief Executive Officer 
 
 [Click here for bio...](http://professionalmarksmen.com/jon_weiler/)
