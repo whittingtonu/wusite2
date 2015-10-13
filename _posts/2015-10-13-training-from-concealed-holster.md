@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Training from the Concealed Holster"
-description: "Custom written post descriptions are the way to go... if you're not lazy."
+description: "necessary"
 category: theme
 tags: [whittingotn u, defensive, concealed carry, pistol, jim rutske]
 imagefeature: cover9.jpg
@@ -10,39 +10,31 @@ share: true
 
 This is a sample post with a large feature image up top and tons of text. You can set post image covers by using only Kramdown narkdown, just place something like this: `![cover-image](http://path-to-your-image.jpg)`
 
-Odio ad blue bottle vinyl, 90's narwhal commodo bitters pour-over nostrud. Ugh est hashtag in, fingerstache adipisicing laboris esse Pinterest shabby chic Portland. Shoreditch bicycle rights anim, flexitarian laboris put a bird on it vinyl cupidatat narwhal. Hashtag artisan skateboard, flannel Bushwick nesciunt salvia aute fixie do plaid post-ironic dolor McSweeney's. Cliche pour-over chambray nulla four loko skateboard sapiente hashtag.
+“Train for Everyday” is a fundamental concept of the Professional Marksmen Defensive Courses. We are convinced that the training you do on the range or in your home should directly relate to how you implement a defensive firearm into your everyday life. This concept is profoundly important for anyone who has taken the immense responsibility of a legally concealed carry firearm. We have all too often heard from our students that they have never once drew and fired from their conceal carry holster, many of which have conceal carried for years. I’m going to discuss ways to still stay proficient using professional level training as well as fundamental in-home training drills. 
 
-Vero laborum commodo occupy. Semiotics voluptate mumblecore pug. Cosby sweater ullamco quinoa ennui assumenda, sapiente occupy delectus lo-fi. Ea fashion axe Marfa cillum aliquip. Retro Bushwick keytar cliche. Before they sold out sustainable gastropub Marfa readymade, ethical Williamsburg skateboard brunch qui consectetur gentrify semiotics. Mustache cillum irony, fingerstache magna pour-over keffiyeh tousled selfies.
+We have all seen the dapper range shooters dressed in safe, comfortable, and weather appropriate range attire. They are adorned with conveniently placed simple to draw holsters, advantageous magazine carriers for fast reloads, properly tinted shooting glasses, electronic hearing protection, and a generous quantity of moderate velocity training ammunition. All of this culminates on engaging a large stationary paper target at eye level just a few yards away. Of course, this target is being engaged with a full sized semi-automatic sidearm freshly returned from the gunsmith after receiving a trigger job to get rid of that heavy and clunky factory trigger. This shooter wants the tightest groups possible to prove to themselves and quite possibly everyone at the range just how good of a shooter they are. Why does this description sound so familiar?  Because this was me when I first started shooting.  Is it you too? We may get the results we want but the training is not very true to real life. 
 
-## Cupidatat 90's lo-fi authentic try-hard
+Consider the last time you were conceal carrying. How many of the above factors in the range example were in play. Probably very few if any at all. So why do so many, myself included, often train so divergent to real life. I know why I did it, because it was easy and I got the results I thought I wanted and to be honest when I started I just didn’t know any better. My perspective has changed. We must train for how we honestly implement that firearm into our defensive lifestyle.   
 
-In pug Portland incididunt mlkshk put a bird on it vinyl quinoa. Terry Richardson shabby chic +1, scenester Tonx excepteur tempor fugiat voluptate fingerstache aliquip nisi next level. Farm-to-table hashtag Truffaut, Odd Future ex meggings gentrify single-origin coffee try-hard 90's. 
+![Pocket]({{ site.url }}/images/articles/2.jpg)
 
-* Sartorial hoodie 
-* Labore viral forage
-* Tote bag selvage 
-* DIY exercitation et id ugh tumblr church-key
 
-Incididunt umami sriracha, ethical fugiat VHS ex assumenda yr irure direct trade. Marfa Truffaut bicycle rights, kitsch placeat Etsy kogi asymmetrical. Beard locavore flexitarian, kitsch photo booth hoodie plaid ethical readymade leggings yr.
+## Where to Train?
 
-Aesthetic odio dolore, meggings disrupt qui readymade stumptown brunch Terry Richardson pour-over gluten-free. Banksy american apparel in selfies, biodiesel flexitarian organic meh wolf quinoa gentrify banjo kogi. Readymade tofu ex, scenester dolor umami fingerstache occaecat fashion axe Carles jean shorts minim. Keffiyeh fashion axe nisi Godard mlkshk dolore. Lomo you probably haven't heard of them eu non, Odd Future Truffaut pug keytar meggings McSweeney's Pinterest cred. Etsy literally aute esse, eu bicycle rights qui meggings fanny pack. Gentrify leggings pug flannel duis.
+I am often told “but Jim, my range will not allow me to draw from a concealed holster”. Although this is unfortunately the case on many ranges, where the rules are found to be very strict against holster draw and even more so from concealed holsters. I researched a number of local indoor and outdoor ranges, read up on their posted rules and have found they mostly fall into two major categories: public and private ranges. Public ranges such as city run ranges and indoor pay by the hour ranges are generally very restrictive in what they will allow.  Most private membership and, often more rural ranges, are far less restrictive and allow more responsible freedom on the range. 
 
-## Forage occaecat cardigan qui
+The bottom line here is, if you want to train a certain way, perhaps to include drawing and firing from the concealed holster, you must do your homework and read up and ask about the range rules before you sign up. 
 
-Fashion axe hella gastropub lo-fi kogi 90's aliquip +1 veniam delectus tousled. Cred sriracha locavore gastropub kale chips, iPhone mollit sartorial. Anim dolore 8-bit, pork belly dolor photo booth aute flannel small batch. Dolor disrupt ennui, tattooed whatever salvia Banksy sartorial roof party selfies raw denim sint meh pour-over. Ennui eu cardigan sint, gentrify iPhone cornhole. 
+## Peripheral Training Options
 
-> Whatever velit occaecat quis deserunt gastropub, leggings elit tousled roof party 3 wolf moon kogi pug blue bottle ea. Fashion axe shabby chic Austin quinoa pickled laborum bitters next level, disrupt deep v accusamus non fingerstache.
+![Ammo]({{ site.url }}/images/articles/1.jpg)
 
-Tote bag asymmetrical elit sunt. Occaecat authentic Marfa, hella McSweeney's next level irure veniam master cleanse. Sed hoodie letterpress artisan wolf leggings, 3 wolf moon commodo ullamco. Anim occupy ea labore Terry Richardson. Tofu ex master cleanse in whatever pitchfork banh mi, occupy fugiat fanny pack Austin authentic. Magna fugiat 3 wolf moon, labore McSweeney's sustainable vero consectetur. Gluten-free disrupt enim, aesthetic fugiat jean shorts trust fund keffiyeh magna try-hard.
+What if you’re a member of restrictive range but still want to train from concealed? In-home drills can be a solid choice to practice drawing from your conceal holster and practicing your overall defensive posture. There are a number of safe options to make this possible while getting the most benefit from your training time. Laser training cartridges from Laserlyte or Laser Ammo are a great choice to accomplish this training. The laser assembly slides into the chamber of a completely clear firearm and presents a laser pulse with every release of the firing pin as it strikes a switch on the back of the cartridge. This gives you an indicator to your hits with nothing more than the cost of the cartridge and spare batteries. You can challenge yourself in various drills and shooting positions to continually push your skillset, all while comfortably in your home. 
 
-## Hoodie Duis
+## Professional Instruction
 
-Actually salvia consectetur, hoodie duis lomo YOLO sunt sriracha. Aute pop-up brunch farm-to-table odio, salvia irure occaecat. Sriracha small batch literally skateboard. Echo Park nihil hoodie, aliquip forage artisan laboris. Trust fund reprehenderit nulla locavore. Stumptown raw denim kitsch, keffiyeh nulla twee dreamcatcher fanny pack ullamco 90's pop-up est culpa farm-to-table. Selfies 8-bit do pug odio.
+Another clear choice for many is high quality and professionally led training on a range which allows drawing from concealment. This training often provides the safest training with a very high level of long term retention. An example is in our Defensive Pistol Course, Professional Marksmen students are started with dry fire drills to ensure the presentation and engagement techniques are consistent, efficient and safe. The students then move to straightforward single shot live fire drills and keep progressing through multi-shot movement drills while using cover to gain advantage over a presented threat. Why do we go through such a progressive training? Because the students gain confidence and expand their capabilities all while consistently, efficiently, safely interacting with their sidearm.  The goal is retention of the information.
 
-### Thundercats Ho!
+If you have never or rarely practiced from the concealed holster but carry every day, you need to re-consider adding it to your training. Engaging from the concealed holster should not be taken lightly and must be practiced on a routine basis. I encourage you to seek professional level training as well as training in your home. 
 
-Fingerstache thundercats Williamsburg, deep v scenester Banksy ennui vinyl selfies mollit biodiesel duis odio pop-up. Banksy 3 wolf moon try-hard, sapiente enim stumptown deep v ad letterpress. Squid beard brunch, exercitation raw denim yr sint direct trade. Raw denim narwhal id, flannel DIY McSweeney's seitan. Letterpress artisan bespoke accusamus, meggings laboris consequat Truffaut qui in seitan. Sustainable cornhole Schlitz, twee Cosby sweater banh mi deep v forage letterpress flannel whatever keffiyeh. Sartorial cred irure, semiotics ethical sed blue bottle nihil letterpress.
-
-Occupy et selvage squid, pug brunch blog nesciunt hashtag mumblecore skateboard yr kogi. Ugh small batch swag four loko. Fap post-ironic qui tote bag farm-to-table american apparel scenester keffiyeh vero, swag non pour-over gentrify authentic pitchfork. Schlitz scenester lo-fi voluptate, tote bag irony bicycle rights pariatur vero Vice freegan wayfarers exercitation nisi shoreditch. Chambray tofu vero sed. Street art swag literally leggings, Cosby sweater mixtape PBR lomo Banksy non in pitchfork ennui McSweeney's selfies. Odd Future Banksy non authentic.
-
-Aliquip enim artisan dolor post-ironic. Pug tote bag Marfa, deserunt pour-over Portland wolf eu odio intelligentsia american apparel ugh ea. Sunt viral et, 3 wolf moon gastropub pug id. Id fashion axe est typewriter, mlkshk Portland art party aute brunch. Sint pork belly Cosby sweater, deep v mumblecore kitsch american apparel. Try-hard direct trade tumblr sint skateboard. Adipisicing bitters excepteur biodiesel, pickled gastropub aute veniam.
+If you have any specific questions please contact us at info@professionalmarksmen.com. See you on the range!
