@@ -46,4 +46,4 @@ If you have any specific questions please contact us at info@professionalmarksme
 
 Jim Rutske is a defensive lifestyle enthusiast who has a deep delight for all things firearm related. Jim’s home base is presently Albuquerque NM and is the Chief Operations Officer for Professional Marksmen Inc.  
 
-
+[Click here for bio...](http://professionalmarksmen.com/jim_rutske/)
