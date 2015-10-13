@@ -45,10 +45,11 @@ links:
     url: /instructors
   - title: Register
   	url:  http://nrawc.goemerchant-stores.com/Whittington-U_c_19.html
+	external:  true
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    Asia/Dhaka
+timezone:    US/Central
 future:      true
 highlighter: pygments
 markdown:    kramdown
