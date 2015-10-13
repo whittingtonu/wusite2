@@ -38,3 +38,13 @@ Another clear choice for many is high quality and professionally led training on
 If you have never or rarely practiced from the concealed holster but carry every day, you need to re-consider adding it to your training. Engaging from the concealed holster should not be taken lightly and must be practiced on a routine basis. I encourage you to seek professional level training as well as training in your home. 
 
 If you have any specific questions please contact us at info@professionalmarksmen.com. See you on the range!
+
+## About The Author
+
+![Author]({{ site.url }}/images/jimrutske.jpg)
+
+Jim Rutske 
+
+Jim Rutske is a defensive lifestyle enthusiast who has a deep delight for all things firearm related. Jim’s home base is presently Albuquerque NM and is the Chief Operations Officer for Professional Marksmen Inc.  
+
+
