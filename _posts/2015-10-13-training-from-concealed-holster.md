@@ -9,8 +9,6 @@ share: true
 ---
 “Train for Everyday” is a fundamental concept of the Professional Marksmen Defensive Courses. We are convinced that the training you do on the range or in your home should directly relate to how you implement a defensive firearm into your everyday life. 
 
-This is a sample post with a large feature image up top and tons of text. You can set post image covers by using only Kramdown narkdown, just place something like this: `![cover-image](http://path-to-your-image.jpg)`
-
 This concept is profoundly important for anyone who has taken the immense responsibility of a legally concealed carry firearm. We have all too often heard from our students that they have never once drew and fired from their conceal carry holster, many of which have conceal carried for years. I’m going to discuss ways to still stay proficient using professional level training as well as fundamental in-home training drills. 
 
 We have all seen the dapper range shooters dressed in safe, comfortable, and weather appropriate range attire. They are adorned with conveniently placed simple to draw holsters, advantageous magazine carriers for fast reloads, properly tinted shooting glasses, electronic hearing protection, and a generous quantity of moderate velocity training ammunition. All of this culminates on engaging a large stationary paper target at eye level just a few yards away. Of course, this target is being engaged with a full sized semi-automatic sidearm freshly returned from the gunsmith after receiving a trigger job to get rid of that heavy and clunky factory trigger. This shooter wants the tightest groups possible to prove to themselves and quite possibly everyone at the range just how good of a shooter they are. Why does this description sound so familiar?  Because this was me when I first started shooting.  Is it you too? We may get the results we want but the training is not very true to real life. 
@@ -44,7 +42,7 @@ If you have any specific questions please contact us at info@professionalmarksme
 
 ![Author]({{ site.url }}/images/jimrutske.jpg)
 
-Jim Rutske 
+### Jim Rutske 
 
 Jim Rutske is a defensive lifestyle enthusiast who has a deep delight for all things firearm related. Jim’s home base is presently Albuquerque NM and is the Chief Operations Officer for Professional Marksmen Inc.  
 
