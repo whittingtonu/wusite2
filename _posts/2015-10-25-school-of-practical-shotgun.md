@@ -27,7 +27,7 @@ Defensive Academy Courses:  School of Practical Shotgun
 <p><a href="/training/whittington-u-course-requirements/" title="Course Requirements">PSI Course Requirements</a></p>
 <p><a href="#psischedule" data-toggle="collapse">PSI Course Schedule</a></p>
 <div id="psischedule" class="collapse">                
-<p><strong>PSI Course Schedule*</strong></p>
+
 <div class="well">                 
 <p><strong>PSI Course Schedule*</strong></p>
 <p><strong>Day 1:  Classroom Instruction (NRAWC Administration Building Classroom)</strong></p>
