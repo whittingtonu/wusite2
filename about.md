@@ -27,11 +27,9 @@ chart: true
 {% endfor %}
 
 
-This is the info site for Whittington U, the training division of the NRA Whittington Center.  Broken down into the Defensive Academy and Precision Academy, Whittington U focuses on the Everday Implementation of the firearm tool into our everyday lives.
+This is the info site for Whittington U, the training division of the NRA Whittington Center.  Located at the foothills of the Sangre de Cristo Mountains in NE New Mexico, the NRA Whittington Center is a 52 square mile world class outdoor facility.  The Whittington U is the instructional division of the NRA Whittington Center that utilizes an educational model in the approach to firearms instruction. Broken down into Academies that are applicable to the firearm or method of instruction, the Whittington U strives to assist all students in building both confidence and a holistic understanding of all the firearm platforms.
 
-The Whittington U is the instructional division of the NRA Whittington Center that utilizes an educational model in the approach to firearms instruction. Broken down into Academies that are applicable to the firearm or method of instruction, the Whittington U strives to assist all students in building both confidence and a holistic understanding of all the firearm platforms.
-
-The Whittington U also focuses on the real world implementation of the firearm platform, regardless if it is a technical, precision long range or defensive oriented curriculum. Each course is designed to educate students in a manner that is both easily understandable and retainable. Our course sizes are such to ensure a good Instructor:Student ratio to assist every individual who attends our courses.
+Broken down into the Defensive Academy and Precision Academy, Whittington U focuses on the Everday Implementation of the firearm tool into our everyday lives.The Whittington U also focuses on the real world implementation of the firearm platform, regardless if it is a technical, precision long range or defensive oriented curriculum. Each course is designed to educate students in a manner that is both easily understandable and retainable. Our course sizes are such to ensure a good Instructor:Student ratio to assist every individual who attends our courses.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KTlHyVqSIM8" frameborder="0" allowfullscreen></iframe>
 
@@ -64,7 +62,7 @@ Whittington U offers some of the best firearm instruction in the world!
 
 
 <figure>
-	<img src="{{ site.url }}/images/about/Defensive-Academy3.jpg" alt="WU Defensive Academy">
+	<a href="http://nrawc.goemerchant-stores.com/Practical-Pistol_c_50.html" target=_"blank"><img src="{{ site.url }}/images/about/Defensive-Academy3.jpg" alt="WU Defensive Academy">
 	<figcaption>Click above for info on the WU Defensive Academy</figcaption>
 </figure>
 
