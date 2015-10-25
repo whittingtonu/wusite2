@@ -4,7 +4,7 @@ title: "Whittington U: School of Practical Pistol"
 description: 
 headline: 
 modified: 2015-10-25
-category: webdevelopment
+category: training
 tags: [whittington u, defensive academy, practical pistol, course schedule]
 imagefeature: pp-1.png
 mathjax: 
@@ -24,7 +24,7 @@ Defensive Academy Courses:  School of Practical Pistol
 <p>Cost Per Course: $300</p>
 <p>Class Duration: 2-days</p>
 <p><a href="http://nrawc.goemerchant-stores.com/Practical-Pistol-I_p_78.html">Upcoming Course Dates</a></p>
-<p><a href="/training/2015-10-24-whittington-u-course-requirements/" title="Course Requirements">PPI Course Requirements</a></p>
+<p><a href="/training/whittington-u-course-requirements/" title="Course Requirements">PPI Course Requirements</a></p>
 <p><a href="#ppischedule" data-toggle="collapse">PPI Course Schedule</a></p>
 <div id="ppischedule" class="collapse">           
 <p><strong>PPI Course Schedule*</strong></p>
