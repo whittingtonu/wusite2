@@ -15,8 +15,6 @@ featured: false
 
 # For Immediate Release:  The NRA Whittington Center’s training division, Whittington U, schedules 2016 training dates.
 
-Date:  October 24, 2015
-
 Contact:  Jim Rutske:  Whittington U Admin
 
 Email:  <info@whittingtonu.org>
