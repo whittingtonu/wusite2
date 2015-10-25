@@ -53,7 +53,7 @@ Precision Academy Courses:  School of Extreme Long Range
 </div>
 <p>*This schedule is tentative.  Times are subject to change.</p>
 </div>
-</div>
+
 <hr />  
 <h4>Extreme Long Range II</h4>
 <p>Here is your chance to successfully engage targets at ranges of up to 2,880 yards! During this 3-day course you will build on your technical knowledge of extreme long range shooting techniques with special emphasis on angle fire and alternative firing positions.</p>
@@ -90,7 +90,7 @@ Precision Academy Courses:  School of Extreme Long Range
 </div>
 <p>*This schedule is tentative.  Times are subject to change.</p>
 </div>
-</div>
+
 <hr />   
 <h4>Extreme Long Range III</h4>
 <p>Our final course in the series is designed to help you master the technical requirements of extreme long range engagements. The focus is on targets of unknown distances from 600 yards to 2.07 miles.  You will be shooting at the edge of science!</p>
@@ -127,7 +127,7 @@ Precision Academy Courses:  School of Extreme Long Range
 </div>
 <p>*This schedule is tentative.  Times are subject to change.</p>
 </div>
-</div>
+
 <hr />  
 <h4>School of Extreme Long Range: Additional Information</h4>
 <p><strong>Food/Onsite Lodging:</strong> Available at the Center. Call 575-445-3615 to reserve your lodging.<br /><strong>Class Requirements:</strong>  A Pro Shop is located at the Center and stocks everything you need for Whittington U courses.  Ammunition packages are available.  See course requirements for details.<br /><strong>Firearm Rentals:</strong>  N/A for School of Extreme Long Range.</p>

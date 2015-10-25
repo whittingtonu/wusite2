@@ -16,8 +16,7 @@ featured: true
 Precision Academy Courses:  School of 1000 Yards
 
 <p class="content-summary">The Academy’s School of 1,000 Yards focuses on the caliber / cartridges and rifle platforms that are designed for engagements between 100 – 1,000 yards.  Levels I, II and III offered.  Taught by professional marksmen.  Great training for hunters and marksmen alike.  Sign up today!</p>
-					  <div class="clearfix"><br /></div>
-				<div class="well shadowbox">     
+				   
 <h4>Precision Long Range I</h4>
 <p>This 3-day course introduces you to the art and science of Precision Long Range Shooting. We will teach you about internal and external ballistics, marksmanship techniques, optics and rifle sight-in. You will then engage in a series of known distance shooting up to 1,200 yards.</p>
 <hr />  
@@ -53,7 +52,7 @@ Precision Academy Courses:  School of 1000 Yards
 <p>1645-1700 –Final Lecture</p>
 <p>*This schedule is tentative.  Times are subject to change.</p>
 </div>
-</div>
+
 <hr />  
      
 <h4>Precision Long Range II</h4>

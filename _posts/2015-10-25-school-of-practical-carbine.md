@@ -57,9 +57,9 @@ Defensive Academy Courses:  School of Practical Carbine
 <p>1430-1630:  Alternate Firing Position Free Movement Drill</p>
 <p>*This schedule is tentative.  Times are subject to change.</p>
 </div>
-</div>
+
 <hr />  
-</div>      
+    
 <h4>Practical Carbine II</h4>
 <p>Our intermediate to advanced level course increases the challenges you will face in defensive carbine situations. Over a 3-day period we will teach you advanced movement techniques, how to close and draw away from a target, and other advanced defensive skills. You will be introduced to lowlight engagements and engage in motion drills.</p>
 <hr />        
@@ -97,7 +97,7 @@ Defensive Academy Courses:  School of Practical Carbine
          
 <p>*This schedule is tentative.  Times are subject to change.</p>
 </div>
-</div>
+
 <hr />  
 
 <h4>Practical Carbine: Additional Information</h4>
