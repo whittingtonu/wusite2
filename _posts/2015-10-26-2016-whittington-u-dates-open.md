@@ -49,7 +49,7 @@ Ammunition packages are available for all WU courses. You can also rent a pistol
 
 Whittington U will be offering private group instruction for the Precision and Defensive Academies and is open to both individual groups and company organizations.  Whittington U Courses are great group vacation or corporate retreats for employees.
   
-Contact us at 575-737-8695 for more information on reserving a private course at the Whittington U!
+Contact us at 575-737-8695 or <info@whittingtonu.org> for more information on reserving a private course at the Whittington U!
 
 ## About the Whittington U:
 
