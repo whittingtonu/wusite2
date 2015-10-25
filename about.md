@@ -66,7 +66,7 @@ Whittington U offers some of the best firearm instruction in the world!
 	<figcaption>WU Defensive Academy Courses</figcaption>
 </figure>
 
-<a href="http://nrawc.goemerchant-stores.com/Defensive-Academy_c_28.html" class="btn btn-info">Click Here to Register</a>
+<a href="http://nrawc.goemerchant-stores.com/Defensive-Academy_c_28.html" class="button">Register</a>
 
 **WU Defensive Academy**
 
