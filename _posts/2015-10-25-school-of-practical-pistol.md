@@ -55,6 +55,7 @@ Defensive Academy Courses:  School of Practical Pistol
 <p>*If you would like to register more than one person for this course please add it to your Cart as two separate items.</p>
      </div>
      </div>
+	 <hr /> 
 </div>
 <div class="well shadowbox">     
 <h4>Practical Pistol II</h4>
@@ -64,7 +65,7 @@ Defensive Academy Courses:  School of Practical Pistol
 <p>Cost Per Course: $300</p>
 <p>Class Duration: 2-days</p>
 <p><a href="http://nrawc.goemerchant-stores.com/Practical-Pistol-II_p_86.html">Upcoming Course Dates</a></p>
-<p><a href="/posts/2015-10-24-whittington-u-course-requirements/" title="Course Requirements">PPII Course Requirements</a></p>
+<p><a href="/training/whittington-u-course-requirements/" title="Course Requirements">PPII Course Requirements</a></p>
 <p><a href="#ppiischedule" data-toggle="collapse">PPII Course Schedule</a></p>
 <div id="ppiischedule" class="collapse">               
 <p><strong>PPII Course Schedule*</strong></p>
@@ -89,6 +90,7 @@ Defensive Academy Courses:  School of Practical Pistol
 <p>*If you would like to register more than one person for this course please add it to your Cart as two separate items.</p>
    </div>
    </div>
+   <hr /> 
 </div>
 <div class="well shadowbox">     
 <h4>Practical Pistol III</h4>
@@ -98,7 +100,7 @@ Defensive Academy Courses:  School of Practical Pistol
 <p>Class Duration: 2-days</p>
 <p><a style="color: #fff;" href="http://nrawc.goemerchant-stores.com/Practical-Pistol-III_p_87.html" class="btn btn-danger pull-right">ENROLL NOW!</a></p>
 <p><a href="http://nrawc.goemerchant-stores.com/Practical-Pistol-III_p_87.html">Upcoming Course Dates</a></p>
-<p><a href="/training/course-requirements/" title="Course Requirements">PPIII Course Requirements</a></p>
+<p><a href="/training/whittington-u-course-requirements/" title="Course Requirements">PPIII Course Requirements</a></p>
 <p><a href="#ppiiischedule" data-toggle="collapse">PPIII Course Schedule</a></p>
 <div id="ppiiischedule" class="collapse">           
 <p><strong>PPIII Course Schedule*</strong></p>
