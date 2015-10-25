@@ -45,6 +45,12 @@ Ammunition packages are available for all WU courses. You can also rent a pistol
 
 [School of Extreme Long Range:  ELR I-III](http://nrawc.goemerchant-stores.com/Extreme-Long-Range-I_p_92.html)
 
+## New in 2016: Private Group Instruction
+
+Whittington U will be offering private group instruction for the Precision and Defensive Academies and is open to both individual groups and company organizations.  Whittington U Courses are great group vacation or corporate retreats for employees.
+  
+Contact us at 575-737-8695 for more information on reserving a private course at the Whittington U!
+
 ## About the Whittington U:
 
 Whittington U is the firearms training division of the NRA Whittington Center. At Whittington U you will receive hands-on training from experts in the fields of defensive firearm instruction and precision, long-range shooting. Defensive firearm instruction is provided by the WU Defensive Academy and long-range shooting instruction is provided by the WU Precision Long Range Academy. Courses range from beginner to advanced. Each course features live fire exercises that simulate real world conditions! 
