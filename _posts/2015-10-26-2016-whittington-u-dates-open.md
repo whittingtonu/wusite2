@@ -13,12 +13,15 @@ comments: true
 featured: false
 ---
 
-For Immediate Release:  The NRA Whittington Center’s training division, Whittington U, schedules 2016 training dates.
+# For Immediate Release:  The NRA Whittington Center’s training division, Whittington U, schedules 2016 training dates.
 
-<p>Date:  October 24, 2015</p>
-<p>Contact:  Jim Rutske:  Whittington U Admin</p>
-<p>Email:  <info@whittingtonu.org></p>
-<p>Phone:  575-737-8695</p>
+Date:  October 24, 2015
+
+Contact:  Jim Rutske:  Whittington U Admin
+
+Email:  <info@whittingtonu.org>
+
+Phone:  575-737-8695
 
 The 2016 Training Dates are now open for registration at the Whittington U, the training division for the NRA Whittington Center.  Located in NE New Mexico along the foothills of the Sangre de Cristo Mountains, the NRA Whittington Center is a 52 square mile world class outdoor facility. 
  
