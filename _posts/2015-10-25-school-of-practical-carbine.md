@@ -6,7 +6,7 @@ headline:
 modified: 2015-10-25
 category: training
 tags: [whittington u, defensive academy, practical carbine, semi-automatic rifle, course schedule]
-imagefeature: pc-1.png
+imagefeature: pc-1.jpg
 mathjax: 
 chart: 
 comments: true
@@ -16,8 +16,7 @@ featured: true
 Defensive Academy Courses:  School of Practical Carbine
 
 <p class="content-summary">One of the best carbine defensive schools in America.  Levels I and II offered.  As with all our defensive firearm courses, our lead instructors are either combat or police veterans.  Don’t wait.  Get trained by the experts.  Learn the defensive use of the carbine.  Includes live-fire scenarios.  Sign up today!</p>
-					  <div class="clearfix"><br /></div>
-				<div class="well shadowbox">     
+					      
 <h4>Practical Carbine I</h4>
 <p>This 3-day introductory to intermediate level course will instill in you the fundamentals of the defensive use of the carbine. You will learn about internal and external ballistics, marksmanship techniques, and the principles of cover. You will then apply this knowledge in live-fire scenarios simulating real-world conditions!</p>
 <hr />     
@@ -60,8 +59,7 @@ Defensive Academy Courses:  School of Practical Carbine
 </div>
 </div>
 <hr />  
-</div>
-<div class="well shadowbox">        
+</div>      
 <h4>Practical Carbine II</h4>
 <p>Our intermediate to advanced level course increases the challenges you will face in defensive carbine situations. Over a 3-day period we will teach you advanced movement techniques, how to close and draw away from a target, and other advanced defensive skills. You will be introduced to lowlight engagements and engage in motion drills.</p>
 <hr />        
@@ -101,10 +99,8 @@ Defensive Academy Courses:  School of Practical Carbine
 </div>
 </div>
 <hr />  
-</div>
-<div class="well shadowbox">  
+
 <h4>Practical Carbine: Additional Information</h4>
 <p><strong>Food/Onsite Lodging</strong>: Available at the Center. Call 800-494-4853 to reserve your lodging.</p>
 <p><strong>Class Requirements</strong>:  A Pro Shop is located at the Center and stocks everything you need for Whittington U courses.  Ammunition packages are available.  See course requirements for details.</p>
 <p><strong>Firearm Rentals</strong>:  You can rent a pistol or semi-auto rifle for a Defensive Academy course.</p>
-</div>
