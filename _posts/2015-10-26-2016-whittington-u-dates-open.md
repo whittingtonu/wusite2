@@ -10,13 +10,14 @@ imagefeature: WU Cover.png
 mathjax: 
 chart: 
 comments: true
-featured: true
+featured: false
 ---
 
 For Immediate Release:  The NRA Whittington Center’s training division, Whittington U, schedules 2016 training dates.
+
 Date:  October 24, 2015
 Contact:  Jim Rutske:  Whittington U Admin
-Email:  info@whittingtonu.org
+Email:  <info@whittingtonu.org>
 Phone:  575-737-8695
 
 The 2016 Training Dates are now open for registration at the Whittington U, the training division for the NRA Whittington Center.  Located in NE New Mexico along the foothills of the Sangre de Cristo Mountains, the NRA Whittington Center is a 52 square mile world class outdoor facility. 
@@ -27,9 +28,9 @@ The Whittington U offers courses around the real world implementation of the fir
 
 > When danger threatens and seconds count, simply reaching for your firearm may not be enough. Get trained by the experts at the Whittington U Defensive Academy. Learn the essential defensive firearm handling and marksmanship skills you need to defend yourself in high-stress situations. Each course features live fire exercises that simulate real world conditions. 
 
-[School of Practical Pistol:  Level I-III](http://nrawc.goemerchant-stores.com/Practical-Pistol_c_50.html)
-[School of Practical Carbine:  Level I-II](http://nrawc.goemerchant-stores.com/Practical-Carbine_c_54.html)
-[School of Practical Shotgun:  Level I-II](http://nrawc.goemerchant-stores.com/Practical-Shotgun_c_52.html)
+<p>[School of Practical Pistol:  Level I-III](http://nrawc.goemerchant-stores.com/Practical-Pistol_c_50.html)</p>
+<p>[School of Practical Carbine:  Level I-II](http://nrawc.goemerchant-stores.com/Practical-Carbine_c_54.html)</p>
+<p>[School of Practical Shotgun:  Level I-II](http://nrawc.goemerchant-stores.com/Practical-Shotgun_c_52.html)</p>
 
 Ammunition packages are available for all WU courses. You can also rent a pistol or semi-auto rifle for a Defensive Academy course. Courses range from beginner to advanced.
 
@@ -37,8 +38,8 @@ Ammunition packages are available for all WU courses. You can also rent a pistol
 
 > Do you want to take breathtaking shots at 1,000 yards or more with consistency? World Class Instruction by the experts at the Whittington U Precision Academy. Learn the essential skills for long-range shooting, shooting from known distance, high angle, unknown distances, and other long-range shooting concepts.
 
-[School of 1000 Yards:  PLR I-III](http://nrawc.goemerchant-stores.com/Precision-Long-Range-I_p_90.html)
-[School of Extreme Long Range:  ELR I-III](http://nrawc.goemerchant-stores.com/Extreme-Long-Range-I_p_92.html)
+<p>[School of 1000 Yards:  PLR I-III](http://nrawc.goemerchant-stores.com/Precision-Long-Range-I_p_90.html)</p>
+<p>[School of Extreme Long Range:  ELR I-III](http://nrawc.goemerchant-stores.com/Extreme-Long-Range-I_p_92.html)</p>
 
 ## About the Whittington U:
 
@@ -55,5 +56,5 @@ The NRA Whittington Center is a 501(c)3 nonprofit organization and relies on the
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3hAeZ8PsMmI" frameborder="0" allowfullscreen></iframe>
 
 ## Find out more about Professional Marksmen Inc. at:  
-[Website:](http://www.professionalmarksmen.com)
+<p>[Website:](http://www.professionalmarksmen.com)</p>
 Phone:  605-610-8598
