@@ -15,5 +15,5 @@ The Whittington U is the instructional division of the NRA Whittington Center th
 
 2016 Whittington U Course Dates
 
-<iframe src="https://calendar.google.com/calendar/embed?src=whittingtonu2015%40gmail.com&ctz=America/Denver" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<center><iframe src="https://calendar.google.com/calendar/embed?src=whittingtonu2015%40gmail.com&ctz=America/Denver" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe></center>
  
