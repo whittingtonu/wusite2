@@ -4,11 +4,12 @@ title: "Precision Shooting Fundamental Foundations:  Aiming"
 description: "Relationship between the eye, optic and target..."
 category: training
 tags: [whittingotn u, precision shooting, optics, rifle, fundamentals, jon weiler]
-imagefeature: cover9.jpg
+imagefeature: cover11.jpg
 share: true
 ---
 #Precision Shooting Fundamental Foundations:  Aiming
-This is a four part series on the Fundamentals of Precision Long Range Marksmanship and why we focus on a strong Fundamental Foundation.  As Instructors, we diagnose Ammunition (if the student is shooting handloads,) Firing Position and Point of Aim.  Those three things have a gross effect on consistency in the target area.  We very rarely blame the firearm for poor performance unless it is display gross tendencies of inconsistency (note that term.)
+
+>This is a four part series on the Fundamentals of Precision Long Range Marksmanship and why we focus on a strong Fundamental Foundation.  As Instructors, we diagnose Ammunition (if the student is shooting handloads,) Firing Position and Point of Aim.  Those three things have a gross effect on consistency in the target area.  We very rarely blame the firearm for poor performance unless it is display gross tendencies of *inconsistency* (note that term.)
 
 ##Fundamental #1:  Point of Aim
 
@@ -24,7 +25,7 @@ The role of the erector lenses is to turn this image right side up.  The first f
 
 Eye Relief is the distance from the eye to the rear objective.  This distance is dependent on the magnification setting of the optic and the position in which the shooter is engaging.  The eye relief will vary from a seated position to the prone, just how the face physically sits on the stock.  Proper eye relief should have a full field of view with no black around the edges with the face comfortably set on the stock.  The shooter should not have to push their face forward or pull it back to achieve this full field of view.  Also, the shooter should take note on where their face is sitting vertically on the stock.  Most PLR Rifles will have an elevated base that the optic will sit on, causing the shooter to have to place their face higher on the stock vertically.  This can cause inconsistencies in Point of Aim because the shooter is uncomfortable and will not have as strong of a purchase with their Cheek/Stock weld with the lower jaw touching.  This is usually remedied with an adjustable cheek piece or something like a towel placed on the stock to give more elevation comfortable to the shooter.  
 
-![Cheek/Stock Weld]({{ site.url }}/images/articles/3.jpg)
+![Cheek/Stock Weld]({{ site.url }}/images/articles/4.jpg)
 
 When the eye relief is not correct, it causes a shadow in the viewing area.  This will cause a movement in the muzzle, vertically or horizontally, in the opposite direction of the shadow.  What is happening is the shooter is not looking through the optic in a straight line, even though it is perceived to be.  So, it is very important to have that full field of view to maintain a consistent sight picture.
 
