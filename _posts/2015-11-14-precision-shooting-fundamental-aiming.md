@@ -9,13 +9,15 @@ share: true
 ---
 #Precision Shooting Fundamental Foundations:  Aiming
 
->This is a four part series on the Fundamentals of Precision Long Range Marksmanship and why we focus on a strong Fundamental Foundation, beginning with our Poitn of Aim.
+>This is a four part series on the Fundamentals of Precision Long Range Marksmanship and why we focus on a strong Fundamental Foundation, beginning with our Point of Aim.
 
 ##Fundamental #1:  Point of Aim
 
 This is the relationship between the eye, optic and target.  Without magnified optics, we would not be able to engage the precise targets at the further distances with a high amount consistency, especially beyond 1000 yards.  At the WU Backcountry Training Area, we have the opportunity to engage to the limits of every single shoulder fired cartridge available on the market today.  Optics come with a variety of reticles, which are designed as measuring tools for the shooter.  The Duplex Reticle has no unit of measurement, Mil-Dot/Tactical Milling and MOA Reticle with units of measurement in MRADs and Minute of Angle.  Both MRAD and MOA are angular forms of measurement and can be related back to a Point of Aim/Point of Impact shift for the shooter.  The MRAD is associated with the metric system (m) and Minute of Angle with Imperial Units (yds). 
 
-![TMR]({{ site.url }}/images/articles/tmr.jpg) "TMR Reticle" ![MOA]({{ site.url }}/images/articles/moa.jpg) "MOA Reticle" ![Duplex]({{ site.url }}/images/articles/duplex.jpg) "Duplex Reticle"
+![TMR]({{ site.url }}/images/articles/tmr.jpg) "TMR Reticle" 
+![MOA]({{ site.url }}/images/articles/moa.jpg) "MOA Reticle" 
+![Duplex]({{ site.url }}/images/articles/duplex.jpg) "Duplex Reticle"
 
 Optics utilize an erector tube, housed inside the body of the optic.  The Elevation and Windage knobs will move that erector tube to reposition the muzzle of the rifle in accordance to the distance to the target and the flight of the projectile being shot.  The reticle can be housed in the first or second focal plane.   The first focal plane reticle is located between the erector lenses and the optic ocular assembly.  The image coming from the objective assembly is inverted, or upside down.  
 
