@@ -51,7 +51,7 @@ Finally, the Cheek/Stock weld and the importance of keeping the face on the rifl
 
 ##Conclusion:
 
-There is nothing basic in the shooting disciplines, especially Precision Long Range Shooting.  Consistency equals Accuracy; this is our formula for success.  The shooter has the highest effect of inconsistency on the projectile.  It is up to us to create a level of consistency in an Integrated Act of Firing.  It is the Fundamentals that we will rely on for this and establishing the correct fundamental is the key to success.
+There is nothing basic in the shooting disciplines, especially Precision Long Range Shooting.  Consistency equals Accuracy; this is our formula for success.  The shooter has the highest effect of inconsistency on the projectile.  It is up to us to create a consistent Integrated Act of Firing.  It is the Fundamentals that we will rely on for this and establishing the correct fundamental is the key to success.
 
 ______________________________________________________
 
