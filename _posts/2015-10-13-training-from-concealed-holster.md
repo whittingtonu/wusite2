@@ -5,6 +5,7 @@ description: "Training for Everyday is a fundamental concept..."
 category: training
 tags: [whittingotn u, defensive, concealed carry, pistol, jim rutske]
 imagefeature: cover9.jpg
+comments: true
 share: true
 ---
 “Train for Everyday” is a fundamental concept of the Professional Marksmen Defensive Courses. We are convinced that the training you do on the range or in your home should directly relate to how you implement a defensive firearm into your everyday life. 

@@ -5,6 +5,7 @@ description: "Relationship between the eye, optic and target..."
 category: training
 tags: [whittingotn u, precision shooting, optics, rifle, fundamentals, jon weiler]
 imagefeature: cover11.jpg
+comments: true
 share: true
 ---
 #Precision Shooting Fundamental Foundations:  Aiming
