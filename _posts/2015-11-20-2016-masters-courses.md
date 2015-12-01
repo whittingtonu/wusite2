@@ -4,7 +4,7 @@ title: "2016 WU Masters Courses"
 description: "Continuing Education at the Whittington U."
 category: training
 tags: [whittingotn u, precision shooting, optics, rifle, fundamentals, masters courses]
-imagefeature: cover11.jpg
+imagefeature: cover13.jpg
 comments: true
 share: true
 ---
@@ -20,11 +20,15 @@ Our Masters Courses are the "continuing education" in our University-style model
 
 >Our Masters Courses are open to all students who have completed:
 
-Practical Pistol I-III
-Practical Carbine I-II
-Practical Shotgun I-II
-Precision Long Range I-III
-Extreme Long Range I-III
+###Practical Pistol I-III
+
+###Practical Carbine I-II
+
+###Practical Shotgun I-II
+
+###Precision Long Range I-III
+
+###Extreme Long Range I-III
 
 <hr>
 
