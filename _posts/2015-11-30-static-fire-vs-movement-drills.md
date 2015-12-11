@@ -36,6 +36,12 @@ You can see that a blend of both static and movement drills are necessary to hav
 
 We know you will find the Whittington U courses both fun and challenging and we hope to see you on the range in 2016!
 
+<a href="http://nrawc.goemerchant-stores.com/Practical-Pistol_c_50.html" target="_blank">
+<img src="/images/pp-1300.png" width="300" height="300" alt="WU School of Practical Pistol">
+</a>
+
+Click Above to Register for the School of Practical Pistol Courses!
+
 ## About The Author
 
 ![Author]({{ site.url }}/images/jimrutske.jpg)

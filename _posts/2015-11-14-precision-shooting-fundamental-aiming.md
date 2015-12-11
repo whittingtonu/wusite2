@@ -54,6 +54,12 @@ Finally, the Cheek/Stock weld and the importance of keeping the face on the rifl
 
 There is nothing basic in the shooting disciplines, especially Precision Long Range Shooting.  Consistency equals Accuracy; this is our formula for success.  The shooter has the highest effect of inconsistency on the projectile.  It is up to us to create a consistent Integrated Act of Firing.  It is the Fundamentals that we will rely on for this and establishing the correct fundamental is the key to success.
 
+<a href="http://nrawc.goemerchant-stores.com/School-of-1000-Yards_c_56.html" target="_blank">
+<img src="/images/1000-1300.jpg" width="300" height="300" alt="WU School of 1000 Yards">
+</a>
+
+Click Above to Register for the School of 1000 Yards Courses!
+
 ______________________________________________________
 
 
