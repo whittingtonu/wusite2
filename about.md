@@ -66,8 +66,6 @@ Whittington U offers some of the best firearm instruction in the world!
 	<figcaption>WU Defensive Academy Courses</figcaption>
 </figure>
 
-<a href="http://nrawc.goemerchant-stores.com/Defensive-Academy_c_28.html" class="button">Register</a>
-<a href="http://nrawc.goemerchant-stores.com/Defensive-Academy_c_28.html" class="btn btn-info" role="button">Register</a>
 
 **WU Defensive Academy**
 
@@ -81,10 +79,11 @@ The Whittington U Defensive Academy focuses on the real world implementation on 
 
 The Defensive Academy offers a progressive course lineup that begins with the Fundamentals of Defensive Marksmanship and leads up to a series of Masters Courses that will be the conditioning response for the respective platforms. Training is key to success in every endeavor and the Whittington U Defensive Academy give students the opportunity to test themselves, both mentally and physically in a controlled environment. 
 
-<figure>
-	<a href="http://nrawc.goemerchant-stores.com/Precision-Academy_c_35.html" target="_blank"><img src="{{ site.url }}/images/about/Precision-Academy3.jpg" alt="WU Precision Academy">
-	<figcaption>Click above for info on the WU Precision Academy</figcaption>
-</figure>
+
+<a href="http://nrawc.goemerchant-stores.com/Precision-Academy_c_35.html" target="_blank"><img src="{{ site.url }}/images/about/Precision-Academy3.jpg" alt="WU Precision Academy">
+	
+Click above for info on the WU Precision Academy
+
 
 **WU Precision Academy**
 
