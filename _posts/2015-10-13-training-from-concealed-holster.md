@@ -40,8 +40,10 @@ If you have never or rarely practiced from the concealed holster but carry every
 If you have any specific questions please contact us at info@professionalmarksmen.com. See you on the range!
 
 <a href="http://nrawc.goemerchant-stores.com/Practical-Pistol_c_50.html" target="_blank">
-<img src="/images/pp-1.png" style="border:none;max-width:100%;" alt="WU School of Practical Pistol">
+<img src="/images/pp-1.png" width="300" height="300" alt="WU School of Practical Pistol">
 </a>
+
+Click Above to Register for the School of Practical Pistol Courses!
 
 ## About The Author
 
