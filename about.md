@@ -82,7 +82,7 @@ The Whittington U Defensive Academy focuses on the real world implementation on 
 The Defensive Academy offers a progressive course lineup that begins with the Fundamentals of Defensive Marksmanship and leads up to a series of Masters Courses that will be the conditioning response for the respective platforms. Training is key to success in every endeavor and the Whittington U Defensive Academy give students the opportunity to test themselves, both mentally and physically in a controlled environment. 
 
 <figure>
-	<img src="{{ site.url }}/images/about/Precision-Academy3.jpg" alt="WU Precision Academy">
+	<a href="http://nrawc.goemerchant-stores.com/Precision-Academy_c_35.html" target="_blank"><img src="{{ site.url }}/images/about/Precision-Academy3.jpg" alt="WU Precision Academy">
 	<figcaption>Click above for info on the WU Precision Academy</figcaption>
 </figure>
 
