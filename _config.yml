@@ -39,11 +39,13 @@ links:
     icon: home
   - title: About
     url: /about
-  - title: Register
-    url: "http://nrawc.goemerchant-stores.com/Whittington-U_c_19.html"
-	external: true
+  - title: Featured
+    url: /featured
   - title: Instructors
     url: /instructors
+  - title: Register
+    url: "http://nrawc.goemerchant-stores.com/Whittington-U_c_19.html"
+	external: true	
 
 
 
