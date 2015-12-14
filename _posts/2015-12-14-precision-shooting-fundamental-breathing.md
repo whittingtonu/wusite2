@@ -24,7 +24,7 @@ Comfort and relaxation are key components to success in Precision Shooting.  If 
 
 Our Natural Pause is the point in our breathing cycle where we are in the exhale portion or down-breath and our body is naturally at rest.  We want to avoid holding our breath when firing, as this is a muscular constriction holding the air in our lungs.  Also, we want to remain comfortable during our pause.  Every human body is different but the concept remains the same:  utilize your Natural Pause, do not hold the air in your lungs.  Just do so to your individual capacity.
 
-![Prone]({{ site.url }}/images/articles/b1.jpg) "Prone Position" 
+![Prone]({{ site.url }}/images/articles/b1.jpg)
 
 
 ##Breathing and Alternate Firing Positions
@@ -33,18 +33,13 @@ Breathing will affect the muzzle in a number of directions, depending on the fir
 
 Breathing is a core piece of this but does not have as much effect as it does when we start to get higher up off of the ground, and this is only if we are utilizing our Steady Position correctly to begin with.  PLR II gives us a very brief familiarization to the Alternate Firing Positions: Kneeling and Standing.  We take roughly 10 rounds in each position on the High Angle Range to demonstrate the necessary shift in focus to compensate for the loss of stability - especially when moving from our very stable prone position.  The “little” things have a much higher effect on the shooting platform now and this forces us to change to gain leverage over the movement of the muzzle.  This is a combination of the Fundamentals, but we see Breathing playing a much larger role than the Prone Supported Position.  When you are in our PLR II and experiencing the stability effect during our AFP Familiarization Fire, you will then understand why we devote topics in our Masters Courses to Alternate Firing Positions.
 
-![Kneeling]({{ site.url }}/images/articles/b2.jpg) "Kneeling Position" 
+![Kneeling]({{ site.url }}/images/articles/b2.jpg) 
 
 
 ##Conclusion
 
 The Fundamental: Breathing provides rhythm and control to the Integrated Act of Firing, along with ability and comfort to firing position.  There is no such thing as “basics” in Precision Shooting.  The things that cause the most inconsistencies down at the target area are generally caused by an inconsistent shooter.  Breathing is a fundamental for a reason.  It is up to us to show self-discipline and incorporate consistent Breathing into our Integrated Act of Firing until it is becomes natural.
 
-
-
-
-![MOA]({{ site.url }}/images/articles/moa.jpg) "MOA Reticle" 
-![Duplex]({{ site.url }}/images/articles/duplex.jpg) "Duplex Reticle"
 
 
 
