@@ -16,14 +16,7 @@ description: "Meet the coordinators of the Whittington U"
 
 <center>_____________________________________________________</center>
 
-# Jim Rutske - PMI Chief of Operations
 
-![JR]({{ site.url }}/images/jimrutske.jpg)
-
-[Click here for bio...](http://professionalmarksmen.com/jim_rutske/)
-
-
-<center>_____________________________________________________</center>
 
 # Steve Overman - Defensive Lead Instructor
 
