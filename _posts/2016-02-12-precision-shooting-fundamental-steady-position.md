@@ -73,15 +73,17 @@ The overall goal is Consistency in grouping at the target area and we see much m
 
 This is the point where the Rifle physically interacts with the shooter at the shoulder.  In our PLR/ELR I-III Courses, we utilize an enhanced rear bag as an “assist” in controlling the rearward movement of the rifle.  This is extremely effective in keeping the target in the sight picture during recoil.  This helps with establishing a consistent Natural Point of Aim, where the rifle is naturally at rest in relation to the shooter and the target.  It also allows us to shoot more rounds in class.  We ask for 200 rounds per could; we see on average 120-160 rounds per course shot.  
 
+![Control Point 2]({{ site.url }}/images/articles/Foundations/cp2.jpg)
+
 This is generally more than what most recreational Precision Rifle shooters are used to shooting in a 3-day period, especially when we get into the magnum cartridges.  The enhanced rear bag helps to instill an understanding of how the muzzle moves during recoil and how much we physically affect the muzzle.  If we start to see rounds going high over the target, then it is generally excessive movement at the shoulder (Control Point #2.)  When we allow the rifle to move rearward in our position, the result is the muzzle rising, causing the projectile to strike higher.  The opposite will happen when we begin to anticipate the movement of the rifle and “brace” our bodies forward, pushing the muzzle down.  The projectile will impact low.  
 
-![Control Point 2]({{ site.url }}/images/articles/Foundations/cp2.jpg)
+![Control Point 2]({{ site.url }}/images/articles/Foundations/cp22.jpg)
 
 The enhanced rear bag assists in controlling the movement of the muzzle by giving more mass to the shooter without losing physical control over the stock.  This is the key point to the utilizing this position, we are the ones driving the rifle.  The rear bag is there to assist us in gaining leverage in the position during recoil and helping to increase the amount of rounds possible to shoot in a 3 day period.  Our non-dominant hand will wrap around to the rear of the stock, controlling both the rear bag and the rifle simultaneously.  This allows us to keep the rifle tied into our bodies and move left/right, up/down as a unit: Rifle and Body together.  
 
 The face stays on the stock in our Cheek/Stock weld and we employ the Principles of Stability in gaining the rifle’s Natural Point of Aim.  We will then go through our checklists, leading into the Integrated Act of Firing, employing all the fundamentals simultaneously and then following-through to the next shot.
 
-![Control Point 2]({{ site.url }}/images/articles/Foundations/cp22.jpg)
+
 
 # Conclusion
 
