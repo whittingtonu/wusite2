@@ -71,7 +71,7 @@ The overall goal is Consistency in grouping at the target area and we see much m
  
 #### Control Point #2
 
-This is the point where the Rifle physically interacts with the shooter at the shoulder.  In our PLR/ELR I-III Courses, we utilize an enhanced rear bag as an “assist” in controlling the rearward movement of the rifle.  This is extremely effective in keeping the target in the sight picture during recoil.  This helps with establishing a consistent Natural Point of Aim, where the rifle is naturally at rest in relation to the shooter and the target.  It also allows us to shoot more rounds in class.  We ask for 200 rounds per could; we see on average 120-160 rounds per course shot.  
+This is the point where the Rifle physically interacts with the shooter at the shoulder.  In our PLR/ELR I-III Courses, we utilize an enhanced rear bag as an “assist” in controlling the rearward movement of the rifle.  This is extremely effective in keeping the target in the sight picture during recoil.  This helps with establishing a consistent Natural Point of Aim, where the rifle is naturally at rest in relation to the shooter and the target.  It also allows us to shoot more rounds in class.  We ask for 200 rounds per course; we see on average 120-160 rounds per course shot.  
 
 ![Control Point 2]({{ site.url }}/images/articles/Foundations/cp2.jpg)
 
