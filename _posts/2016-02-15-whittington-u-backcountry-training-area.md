@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Precision Shooting Fundamental Foundations:  Steady Position"
-description: "The Fundamental: Steady Position focuses on a Consistent Physical Interaction between the Body and the Firearm..."
+title: "Whittington U Backcountry Training Area"
+description: "Learn more about the WU Precision Academy Ranges in the Backcountry Training Area."
 category: training
 tags: [whittington u, precision shooting, optics, position, rifle, fundamentals, jon weiler]
 imagefeature: bta2.jpg
