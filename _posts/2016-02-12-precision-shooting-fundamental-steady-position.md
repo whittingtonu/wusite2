@@ -53,7 +53,7 @@ We begin our courses in the prone position, on our stomach as in-line with the r
 
 The bi-pod is attached generally at or around the front sling swivel.  Depending on the manufacturer of the bi-pod, there will be a certain amount of movement, hinging at this point in the rifle.  When training with the bi-pod, one must “load” or put weight forward into the bi-pod legs.  Regardless of how much a person weighs, the rifle will move to the rear and it is this movement that will cause inconsistencies with the muzzle.  This is the initial take off point for that projectile and we lose consistency from the very beginning.
 
-1.	The bi-pod has a higher tendency to jump to the left or right.
+2.	The bi-pod has a higher tendency to jump to the left or right.
 
 The direction will depend on which side is dominant with the body; the muzzle will drift opposite the dominant side.  We strive to maintain as much control over the movement of the rifle and when loading the bi-pods, we put pressure forward.  If we are doing this properly, we will reduce the rearward movement of the rifle.  However, if we are shooting a higher pressure cartridge, the muzzle has the potential to act like a firehose and will jump to the left/right.  
 
@@ -64,6 +64,7 @@ We utilize the Front Rest Method, much like benchrest shooting but with what a p
 We see on a very consistent basis, sub-MOA groups at the extreme limits of the cartridges in courses.  The position helps greatly, but it boils down to an overall individual understanding of the mechanics involved in controlling the movement of the muzzle.  I have taught the Bi-Pod Method for many years and it has caused me, as an Instructor, to work harder.  The Bi-Pod is fast to employ and can be used on every rifle platform, but it does not always translate well from cartridge to cartridge.  The lesser recoiling cartridges are easier to control vs. the magnums.  We see at least one .300WM per course.  
 
 ![3 Round Group - June 2015]({{ site.url }}/images/articles/Foundations/3rndgrp.jpg)
+
 **3 round group on sight in during PLR I, June 12-14, 2015**
 
 The overall goal is Consistency in grouping at the target area and we see much more consistent results with the Front Rest over the Bi-Pod. *Note:* If you want to train specifically with your bi-pod, you are more than welcome to.  The Front Rest Method is our preferred because of the consistent results achieved.
