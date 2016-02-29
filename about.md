@@ -33,6 +33,48 @@ Broken down into the Defensive Academy and Precision Academy, Whittington U focu
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KTlHyVqSIM8" frameborder="0" allowfullscreen></iframe>
 
+<!--Begin CTCT Sign-Up Form-->
+<!-- EFD 1.0.0 [Mon Feb 29 07:11:20 EST 2016] -->
+<link rel='stylesheet' type='text/css' href='https://static.ctctcdn.com/h/contacts-embedded-signup-assets/1.0.2/css/signup-form.css'>
+<div class="ctct-embed-signup" style="font: 16px Helvetica Neue, Arial, sans-serif; font: 1rem Helvetica Neue, Arial, sans-serif; line-height: 1.5; -webkit-font-smoothing: antialiased;">
+   <div style="color:#5b5b5b; background-color:#e8e8e8; border-radius:5px;">
+       <span id="success_message" style="display:none;">
+           <div style="text-align:center;">Thanks for signing up!</div>
+       </span>
+       <form data-id="embedded_signup:form" class="ctct-custom-form Form" name="embedded_signup" method="POST" action="https://visitor2.constantcontact.com/api/signup">
+           <h2 style="margin:0;">Sign up to the Whittington U Newsletter!</h2>
+           <p>Sign up to get interesting news and updates about the Whittington U delivered to your inbox!</p>
+           <!-- The following code must be included to ensure your sign-up form works properly. -->
+           <input data-id="ca:input" name="ca" value="2014aac2-d170-41d5-9383-cba502f1ca49" type="hidden">
+           <input data-id="list:input" name="list" value="1" type="hidden">
+           <input data-id="source:input" name="source" value="EFD" type="hidden">
+           <input data-id="required:input" name="required" value="list,email" type="hidden">
+           <input data-id="url:input" name="url" value="" type="hidden">
+           <p data-id="Email Address:p" ><label data-id="Email Address:label" data-name="email" class="ctct-form-required">Email Address</label> <input data-id="Email Address:input" name="email" value="" maxlength="80" type="text"></p>
+           <button type="submit" class="Button ctct-button Button--block Button-secondary" data-enabled="enabled">Sign Up</button>
+       	<div><p class="ctct-form-footer">By submitting this form, you are granting: Whittington U, P.O. Box 700, Raton, New Mexico, 87740, United States,  permission to email you. You may unsubscribe via the link found at the bottom of every email.  (See our <a href="http://www.constantcontact.com/legal/privacy-statement" target="_blank">Email Privacy Policy</a> for details.) Emails are serviced by Constant Contact.</p></div>
+       </form>
+   </div>
+</div>
+<script type='text/javascript'>
+   var localizedErrMap = {};
+   localizedErrMap['required'] = 		'This field is required.';
+   localizedErrMap['ca'] = 			'An unexpected error occurred while attempting to send email.';
+   localizedErrMap['email'] = 			'Please enter your email address in name@email.com format.';
+   localizedErrMap['birthday'] = 		'Please enter birthday in MM/DD format.';
+   localizedErrMap['anniversary'] = 	'Please enter anniversary in MM/DD/YYYY format.';
+   localizedErrMap['custom_date'] = 	'Please enter this date in MM/DD/YYYY format.';
+   localizedErrMap['list'] = 			'Please select at least one email list.';
+   localizedErrMap['generic'] = 		'This field is invalid.';
+   localizedErrMap['shared'] = 		'Sorry, we could not complete your sign-up. Please contact us to resolve this.';
+   localizedErrMap['state_mismatch'] = 'Mismatched State/Province and Country.';
+	localizedErrMap['state_province'] = 'Select a state/province';
+   localizedErrMap['selectcountry'] = 	'Select a country';
+   var postURL = 'https://visitor2.constantcontact.com/api/signup';
+</script>
+<script type='text/javascript' src='https://static.ctctcdn.com/h/contacts-embedded-signup-assets/1.0.2/js/signup-form.js'></script>
+<!--End CTCT Sign-Up Form-->
+
 
 This is our information hub about the training points, equipment and readiness thoughts that we see at the Whittington U.  This site currently has {{ site.posts | size }} posts in {{ site.categories | size }} categories which combinedly have {{ total_words }} words, which will take an average reader ({{ site.wpm }} WPM) approximately <span class="time">{{ total_readtime }}</span> minutes to read. {% if featuredcount != 0 %}There are <a href="{{ site.url }}/featured">{{ featuredcount }} featured posts</a>, you should definitely check those out.{% endif %} The most recent post is {% for post in site.posts limit:1 %}{% if post.description %}<a href="{{ site.url }}{{ post.url }}" title="{{ post.description }}">"{{ post.title }}"</a>{% else %}<a href="{{ site.url }}{{ post.url }}" title="{{ post.description }}" title="Read more about {{ post.title }}">"{{ post.title }}"</a>{% endif %}{% endfor %} which was published on {% for post in site.posts limit:1 %}{% assign modifiedtime = post.modified | date: "%Y%m%d" %}{% assign posttime = post.date | date: "%Y%m%d" %}<time datetime="{{ post.date | date_to_xmlschema }}" class="post-time">{{ post.date | date: "%d %b %Y" }}</time>{% if post.modified %}{% if modifiedtime != posttime %} and last modified on <time datetime="{{ post.modified | date: "%Y-%m-%d" }}" itemprop="dateModified">{{ post.modified | date: "%d %b %Y" }}</time>{% endif %}{% endif %}{% endfor %}. The last post was on {{ site.time | date: "%A, %d %b %Y" }} at {{ site.time | date: "%I:%M %p" }} [UTC](http://en.wikipedia.org/wiki/Coordinated_Universal_Time "Temps Universel Coordonné").
 
