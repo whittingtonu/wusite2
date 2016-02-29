@@ -76,7 +76,6 @@ Broken down into the Defensive Academy and Precision Academy, Whittington U focu
 <!--End CTCT Sign-Up Form-->
 
 
-This is our information hub about the training points, equipment and readiness thoughts that we see at the Whittington U.  This site currently has {{ site.posts | size }} posts in {{ site.categories | size }} categories which combinedly have {{ total_words }} words, which will take an average reader ({{ site.wpm }} WPM) approximately <span class="time">{{ total_readtime }}</span> minutes to read. {% if featuredcount != 0 %}There are <a href="{{ site.url }}/featured">{{ featuredcount }} featured posts</a>, you should definitely check those out.{% endif %} The most recent post is {% for post in site.posts limit:1 %}{% if post.description %}<a href="{{ site.url }}{{ post.url }}" title="{{ post.description }}">"{{ post.title }}"</a>{% else %}<a href="{{ site.url }}{{ post.url }}" title="{{ post.description }}" title="Read more about {{ post.title }}">"{{ post.title }}"</a>{% endif %}{% endfor %} which was published on {% for post in site.posts limit:1 %}{% assign modifiedtime = post.modified | date: "%Y%m%d" %}{% assign posttime = post.date | date: "%Y%m%d" %}<time datetime="{{ post.date | date_to_xmlschema }}" class="post-time">{{ post.date | date: "%d %b %Y" }}</time>{% if post.modified %}{% if modifiedtime != posttime %} and last modified on <time datetime="{{ post.modified | date: "%Y-%m-%d" }}" itemprop="dateModified">{{ post.modified | date: "%d %b %Y" }}</time>{% endif %}{% endif %}{% endfor %}. The last post was on {{ site.time | date: "%A, %d %b %Y" }} at {{ site.time | date: "%I:%M %p" }} [UTC](http://en.wikipedia.org/wiki/Coordinated_Universal_Time "Temps Universel Coordonné").
 
 
 <figure>
@@ -111,6 +110,7 @@ WU Defensive Academy Courses
 
 The Whittington U Defensive Academy focuses on the real world implementation on the defensive use of the Pistol and Carbine Platforms. The Defensive Academy's goals are to instill a strong fundamental base of interaction with the firearm platform, to help further the knowledge of the responsible gun owner.
 
+
 <figure class="third">
 	<a href="{{ site.url }}/images/about/pp.jpg"><img src="{{ site.url }}/images/about/pp-1.png"></a>
 	<a href="{{ site.url }}/images/about/pc.jpg"><img src="{{ site.url }}/images/about/pc-1.jpg"></a>
@@ -138,4 +138,7 @@ The Whittington U Precision Academy courses take place in the beautiful NRA Whit
 
 Both the School of 1000 Yards and School of ELR offer various Masters Courses that are designed to challenge each graduate by putting them in an environment that forces them to employ the skills taught in previous courses. Our Precision Academy Masters Courses are extremely progressive and the Level I-III Courses are a requirement to participate.
 
+## Site Information
+
+This is our information hub about the training points, equipment and readiness thoughts that we see at the Whittington U.  This site currently has {{ site.posts | size }} posts in {{ site.categories | size }} categories which combinedly have {{ total_words }} words, which will take an average reader ({{ site.wpm }} WPM) approximately <span class="time">{{ total_readtime }}</span> minutes to read. {% if featuredcount != 0 %}There are <a href="{{ site.url }}/featured">{{ featuredcount }} featured posts</a>, you should definitely check those out.{% endif %} The most recent post is {% for post in site.posts limit:1 %}{% if post.description %}<a href="{{ site.url }}{{ post.url }}" title="{{ post.description }}">"{{ post.title }}"</a>{% else %}<a href="{{ site.url }}{{ post.url }}" title="{{ post.description }}" title="Read more about {{ post.title }}">"{{ post.title }}"</a>{% endif %}{% endfor %} which was published on {% for post in site.posts limit:1 %}{% assign modifiedtime = post.modified | date: "%Y%m%d" %}{% assign posttime = post.date | date: "%Y%m%d" %}<time datetime="{{ post.date | date_to_xmlschema }}" class="post-time">{{ post.date | date: "%d %b %Y" }}</time>{% if post.modified %}{% if modifiedtime != posttime %} and last modified on <time datetime="{{ post.modified | date: "%Y-%m-%d" }}" itemprop="dateModified">{{ post.modified | date: "%d %b %Y" }}</time>{% endif %}{% endif %}{% endfor %}. The last post was on {{ site.time | date: "%A, %d %b %Y" }} at {{ site.time | date: "%I:%M %p" }} [UTC](http://en.wikipedia.org/wiki/Coordinated_Universal_Time "Temps Universel Coordonné").
 
